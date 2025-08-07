@@ -1,1 +1,1 @@
-# dairy
+# daily
